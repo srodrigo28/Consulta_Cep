@@ -1,0 +1,9 @@
+.address{
+    background-color: rgb(191, 216, 194);
+    opacity: 0.8;
+    width: 100%;
+    padding: 20px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+}
